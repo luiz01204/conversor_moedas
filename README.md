@@ -46,7 +46,7 @@ Um aplicativo simples desenvolvido em Flutter para conversão de moedas em tempo
 ## 🗄️ Capturas de Tela
 ## Captura de Tela
 
-<img src="https://github.com/luiz01204/conversor_moedas/blob/master/assets/screenshot/Screenshot_android.jpg" alt="Captura de Tela do Conversor de Moedas" width="400">
+<img src="https://github.com/luiz01204/conversor_moedas/blob/master/assets/img/screenShot.jpg" alt="Captura de Tela do Conversor de Moedas" width="400">
 ---
 
 ## 📜 Licença
