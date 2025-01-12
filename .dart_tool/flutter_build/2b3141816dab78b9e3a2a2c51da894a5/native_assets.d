@@ -1,1 +1,0 @@
- C:\\dev\\conversor_moedas\\.dart_tool\\flutter_build\\2b3141816dab78b9e3a2a2c51da894a5\\native_assets.yaml: 
